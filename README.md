@@ -12,6 +12,10 @@ A Raspberry Pi–based system monitoring platform designed to explore embedded s
 - System Telemetry
 - Data Visualization
 
+## Live Demo
+
+[Watch the project demo on YouTube](https://youtu.be/iHWu49pTcvc)
+
 ## Dashboard
 
 ### System Overview
