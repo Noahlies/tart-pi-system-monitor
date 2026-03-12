@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+metrics.db
+
+# Virtual environment
+venv/
+
+# OS
+.DS_Store
+
