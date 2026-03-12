@@ -2,6 +2,16 @@
 
 A Raspberry Pi–based system monitoring platform designed to explore embedded systems, backend services, and infrastructure engineering.
 
+## Technologies
+
+- Python
+- FastAPI
+- Raspberry Pi (Linux)
+- SQLite
+- Chart.js
+- System Telemetry
+- Data Visualization
+
 ## Dashboard
 
 ### System Overview
