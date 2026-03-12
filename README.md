@@ -8,6 +8,20 @@ The monitoring dashboard displays live telemetry collected from the Raspberry Pi
 
 ![Tart-Pi Dashboard](tart-pi-dashboard.png)
 
+## Dashboard
+
+### System Overview
+![Dashboard Overview](tart-pi-dashboard.png)
+
+### CPU Usage Monitoring
+![CPU Graph](tart-pi-dashboard-cpu.png)
+
+### Memory Usage Monitoring
+![Memory Graph](tart-pi-dashboard-memory.png)
+
+### CPU Temperature Monitoring
+![Temperature Graph](tart-pi-dashboard-temperature.png)
+
 ## Overview
 
 This project runs a persistent monitoring service on a Raspberry Pi that collects and logs system telemetry including:
