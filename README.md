@@ -2,6 +2,12 @@
 
 A Raspberry Pi–based system monitoring platform designed to explore embedded systems, backend services, and infrastructure engineering.
 
+## Dashboard
+
+The monitoring dashboard displays live telemetry collected from the Raspberry Pi in real time.
+
+![Tart-Pi Dashboard](tart-pi-dashboard.png)
+
 ## Overview
 
 This project runs a persistent monitoring service on a Raspberry Pi that collects and logs system telemetry including:
