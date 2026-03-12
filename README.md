@@ -4,12 +4,6 @@ A Raspberry Pi–based system monitoring platform designed to explore embedded s
 
 ## Dashboard
 
-The monitoring dashboard displays live telemetry collected from the Raspberry Pi in real time.
-
-![Tart-Pi Dashboard](tart-pi-dashboard.png)
-
-## Dashboard
-
 ### System Overview
 ![Dashboard Overview](tart-pi-dashboard.png)
 
